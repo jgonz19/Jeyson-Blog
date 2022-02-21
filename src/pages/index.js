@@ -34,8 +34,11 @@ export default ({ data }) => {
             </BlogLink>
               <p>
                 {node.excerpt}
-              </p>      
+              </p>     
+              
           </div>
+          
+
         ))}
 
     </div>
